@@ -26,7 +26,7 @@ A repository is the place that all your code for your project happens. It often 
 
 **Link to your GitHub profile repository:** 
 
-https://github.com/LT-IntroToAI-SY2526/assignment-0-dimazurok
+https://github.com/dimazurok/dimazurok
 
 ---
 
